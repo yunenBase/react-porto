@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
 		title: "Ikhwan Porto",
-		name: "Tharindu N.",
+		name: "Ikhwanul Hakim",
 		email: "ikhwanulhakim0707@gmail.com",
 		logo: "../logo.png",
 	},
