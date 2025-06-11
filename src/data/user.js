@@ -2,23 +2,23 @@ const INFO = {
 	main: {
 		title: "Reactfolio by truethari",
 		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		email: "ikhwanulhakim0707@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		github: "https://github.com/yunenBase",
+		linkedin: "https://www.linkedin.com/in/ikhwanul-hakim-b41246222/",
+		instagram: "https://instagram.com/ikhwannnn___",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Ikhwanul Hakim.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Hi, I'm a tech enthusiast who loves diving into Cloud, Backend, Machine Learning, and Mobile Development. I enjoy tackling tough problems with a strong learning spirit. To me, errors aren't setbacks—they're opportunities to grow and get better.",
 	},
 
 	about: {
@@ -35,49 +35,32 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Sleep Monitoring System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Detect sleep students in class using a camera and YOLOv5n model implemented in Nvidia Jetson Nano.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "HOPTIMA",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Predict building price arounds Yogyakarta using Machine Learning and Cloud Run.",
+			logo: "https://static.cdnlogo.com/logos/g/87/google-cloud.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Hoptima/cloud-computing",
 		},
 
 		{
-			title: "Project 4",
+			title: "Keramba Warning",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Monitoring DO and pH condition using IoT sensors, and Flutter mobile app.",
+			logo: "https://static.cdnlogo.com/logos/f/30/flutter.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/yunenBase/keramba-app",
 		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
 	],
 };
 
